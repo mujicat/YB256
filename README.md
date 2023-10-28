@@ -2,8 +2,6 @@
 # YB256
 A Simple LightWeight 256-Bit Hashing Algorithm in Go
 
-<img width="547" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/99200719/278263658-a0ce0d1b-29b9-46b3-98eb-b2f3b2bcb470.png">
-
 128 or 256 :trollface:
 
 
