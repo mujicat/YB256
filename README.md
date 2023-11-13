@@ -4,8 +4,7 @@ A Simple LightWeight 256-Bit Hashing Algorithm in Go
 
 128 or 256 :trollface:
 
-
-Links:
+ref:
 
 https://www.youtube.com/watch?v=DMtFhACPnTY
 
